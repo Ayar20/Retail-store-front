@@ -1,0 +1,8 @@
+{
+  "name": "Cornerstone Retail Manager",
+  "description": "Comprehensive retail store management system to record inventory, process point-of-sale transactions, track operating expenses, and generate daily, weekly, and monthly revenue and profit reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
